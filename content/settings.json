@@ -1,10 +1,12 @@
 {
-  "title": "(Nuxt Content)",
+  "title": "LwM2M Valiation",
   "url": "",
   "logo": {
-    "light": "/logo-light.svg",
-    "dark": "/logo-dark.svg"
+    "light": "/oma2.png",
+    "dark": "/oma2.png"
   },
   "github": "https://github.com/OpenMobileAlliance/lwm2m-validation",
-  "twitter": "@standardshub@standards_hub"
+  "twitter": "OMASpecWorks",
+  "youtube": "OMASpecWorks",
+  "linkedin": "open-mobile-alliance"
 }
