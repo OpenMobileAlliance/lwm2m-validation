@@ -34,7 +34,6 @@ export default theme({
   "youtube-subscribe": {
     tag: "YoutubeSubscribeButton",
   },
-
   generate: {
     fallback: true,
   },
