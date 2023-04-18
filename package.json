@@ -8,7 +8,6 @@
     "start": "nuxt start",
     "generate": "nuxt generate",
     "deploy": "npm run build && gh-pages -d dist -t true --repo https://github.com/OpenMobileAlliance/lwm2m-validation.git"
-
   },
   "engines": {
     "node": "^14.15.1",
