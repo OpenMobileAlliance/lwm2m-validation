@@ -25,6 +25,14 @@ export default theme({
     babel: {
       plugins: [["@babel/plugin-proposal-private-methods", { loose: true }]],
     },
+    postcss: {
+      plugins: {
+        tailwindcss: {},
+      },
+      preset: {
+        stage: 1 // see https://tailwindcss.com/docs/using-with-preprocessors#future-css-featuress
+      }
+    },
   },
 
   linkedin: {
