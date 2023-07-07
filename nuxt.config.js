@@ -34,7 +34,9 @@ export default theme({
       }
     },
   },
-
+  plugins: [
+    '~~/plugins/gtag',
+  ],
   linkedin: {
     partnerId: "3701497",
     disabled: false,
